@@ -1,0 +1,190 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.box{
+	height: 300px;
+	width: 24%;
+	display: inline-block;
+	margin: 5px;
+	background-size: cover;
+	background-position: center;
+	transition: 2s ease;
+}
+.box-1{
+	background: aqua;
+}
+.box-2{
+	background: yellow; 
+}
+.box-3{
+	background: #F09AE9;
+}
+.box-4{
+	background: goldenrod;
+}
+.box-5{
+	background: pink;
+}
+.box-6{
+	background: #FFC1FA;
+}
+.box-7{
+	background: aqua;
+}
+.box-8{
+	background: yellow; 
+}
+.box-9{
+	background: #F09AE9;
+}
+.box-10{
+	background: goldenrod;
+}
+.box-11{
+	background: pink;
+}
+.box-12{
+	background: #FFC1FA;
+}	
+.box-1{
+	background: aqua;
+}
+.box-13{
+	background: yellow; 
+}
+.box-14{
+	background: #F09AE9;
+}
+.box-15{
+	background: goldenrod;
+}
+.box-16{
+	background: pink;
+}
+.box-17{
+	background: #FFC1FA;
+}	
+.box-18{
+	background: aqua;
+}
+.box-19{
+	background: yellow; 
+}
+.box-20{
+	background: #F09AE9;
+}
+.box-21{
+	background: goldenrod;
+}
+.box-22{
+	background: pink;
+}
+.box-23{
+	background: #FFC1FA;
+}	
+.box-24{
+	background: #F09AE9;
+}
+.box-25{
+	background: goldenrod;
+}
+.box-26{
+	background: pink;
+}
+.box-27{
+	background: #FFC1FA;
+}
+.box-28{
+	background: #F09AE9;
+}
+.box:hover{
+	background-size: cover;
+	background-position: center;
+	transition: 2s ease;
+}	
+.box-1:hover{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKTSzc3mJf_F8KoP641kfja8-mBIjbN3Znib-_pD-BXmkY9po&s);
+}
+.box-2:hover{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGp3oCCzP--PsdezhRcXw582h7SCezP8Xcr4VyE45TaQc8NjI&s);
+}	
+.box-3:hover{
+	background-image: url(https://cdn2.vectorstock.com/i/1000x1000/94/96/the-cute-colored-butterfly-on-the-grass-vector-8959496.jpg);
+}	
+.box-4:hover{
+	background-image: url(https://i.pinimg.com/originals/04/3e/74/043e749306e8306139eafd279760cf61.jpg);
+}	
+.box-5:hover{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHv8yX5f0vW0KS1jgewEcMr9udN-1xO7BX9v9euFPMTrVpYnyB&s);
+}	
+.box-6:hover{
+	background-image: url(https://cdn.pixabay.com/photo/2017/02/08/17/24/butterfly-2049567__340.jpg);
+}	
+.box-7:hover{
+	background-image: url(https://image.shutterstock.com/image-photo/beautiful-white-butterfly-on-flower-260nw-512497357.jpg);
+}
+.box-8:hover{
+	background-image: url(https://previews.123rf.com/images/cunaplus/cunaplus1809/cunaplus180900484/108413627-beautiful-butterfly-on-a-woman-hand.jpg);
+}	
+.box-9:hover{
+	background-image: url(https://image.shutterstock.com/image-photo/monarch-butterfly-on-flower-image-260nw-1649042476.jpg);
+}	
+.box-10:hover{
+	background-image: url(https://previews.123rf.com/images/zven0/zven01409/zven0140900171/31481550-elegant-beautiful-butterfly-on-a-light-background.jpg);
+}	
+.box-11:hover{
+	background-image: url(https://st2.depositphotos.com/1177973/9867/i/950/depositphotos_98677204-stock-photo-beautiful-butterfly-sitting-on-hand.jpg);
+}	
+.box-12:hover{
+	background-image: url(https://cdn.pixabay.com/photo/2017/02/08/17/24/butterfly-2049567__340.jpg);
+}	
+.box-13:hover{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHK87lf4z_4X-QwEWSxzuMBzN5cmWhcvCcboBp0EAn0FgA1Us&s);
+}
+.box-14:hover{
+	background-image: url(https://cdn2.vectorstock.com/i/1000x1000/94/96/the-cute-colored-butterfly-on-the-grass-vector-8959496.jpg);
+}	
+.box-15:hover{
+	background-image: url(https://i.pinimg.com/originals/04/3e/74/043e749306e8306139eafd279760cf61.jpg);
+}	
+.box-16:hover{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHv8yX5f0vW0KS1jgewEcMr9udN-1xO7BX9v9euFPMTrVpYnyB&s);
+}	
+.box-17:hover{
+	background-image: url(https://cdn.pixabay.com/photo/2017/02/08/17/24/butterfly-2049567__340.jpg);
+}	
+.box-18:hover{
+	background-image: url(https://i.pinimg.com/originals/1a/98/ee/1a98ee788ce58b97abe1e3919c2dc580.jpg);
+}
+.box-19:hover{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGp3oCCzP--PsdezhRcXw582h7SCezP8Xcr4VyE45TaQc8NjI&s);
+}	
+.box-20:hover{
+	background-image: url(https://cdn2.vectorstock.com/i/1000x1000/94/96/the-cute-colored-butterfly-on-the-grass-vector-8959496.jpg);
+}	
+.box-21:hover{
+	background-image: url(https://i.pinimg.com/originals/04/3e/74/043e749306e8306139eafd279760cf61.jpg);
+}	
+.box-22:hover{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHv8yX5f0vW0KS1jgewEcMr9udN-1xO7BX9v9euFPMTrVpYnyB&s);
+}	
+.box-23:hover{
+	background-image: url(https://cdn.pixabay.com/photo/2017/02/08/17/24/butterfly-2049567__340.jpg);
+}
+.box-24:hover{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGp3oCCzP--PsdezhRcXw582h7SCezP8Xcr4VyE45TaQc8NjI&s);
+}	
+.box-25:hover{
+	background-image: url(https://i.pinimg.com/originals/04/3e/74/043e749306e8306139eafd279760cf61.jpg);
+}	
+.box-26:hover{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHv8yX5f0vW0KS1jgewEcMr9udN-1xO7BX9v9euFPMTrVpYnyB&s);
+}	
+.box-27:hover{
+	background-image: url(https://cdn.pixabay.com/photo/2017/02/08/17/24/butterfly-2049567__340.jpg);
+}
+.box-28:hover{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGp3oCCzP--PsdezhRcXw582h7SCezP8Xcr4VyE45TaQc8NjI&s);
+}		
+
